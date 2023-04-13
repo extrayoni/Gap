@@ -14,4 +14,4 @@ People need to see an overview of how they progress & watch it accumulating in o
 
 
 ## Help us test the app
-[Android test app - Firebase](https://appdistribution.firebase.google.com/testerapps/1:1096748049699:android:b2bdd0ae9109af82f21896/releases/5510f42sslgm0?utm_source=firebase-console)
+[Android test app - Firebase](https://appdistribution.firebase.dev/i/82603803dacfac7d)
